@@ -1,0 +1,5 @@
+data/raw_official/
+checkpoints/
+results/
+*.pt
+*.pth
